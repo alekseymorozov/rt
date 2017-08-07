@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Aleksey.M
-Build-Jdk: 1.8.0_141
-Main-Class: ru.mornimf.revolut_test.App
-Created-By: Maven Integration for Eclipse
-
